@@ -273,4 +273,4 @@ Write-Host "Restart to apply . . ."
 Read-Host "Press enter to continue"
 show-menu
 }
-    } } else { Write-Host "Invalid input. Please select a valid option (1-2)." } }
+    } } else { Write-Host "Invalid input. Please select a valid option (0-2)." } }
